@@ -32,7 +32,7 @@ No server required. Works from the filesystem in any modern browser.
 
 ### Option B — Host internally
 Drop the file anywhere that can serve static HTML — an S3 bucket, a Confluence page via iframe, an internal nginx server, Vercel, etc.
-
+Currently hosted at https://ryanmach-ps.github.io/pm-persona-builder/
 ---
 
 ## Using the generated prompt
